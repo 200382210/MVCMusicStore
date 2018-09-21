@@ -14,7 +14,7 @@ namespace MVCMusicStore.Controllers
 {
     [Authorize]
     public class AccountController : Controller
-        //gg
+        
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
